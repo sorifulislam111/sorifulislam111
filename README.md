@@ -1,26 +1,24 @@
 # Soriful Islam
 
-**Data Analyst | Power BI & Excel Specialist | Statistics Educator**
+**Data Analyst | Power BI, SQL & Python**
 
 ---
 
 ## About Me
 
-I turn messy spreadsheets and disconnected data into clear, decision-ready insights.
+I turn messy spreadsheets and scattered data into clear answers people can act on.
 
-As a **data analyst** with a background in **marketing**, I don’t just look at numbers—I look at what drives business. Whether it’s sales trends, customer behavior, or operational performance, I help teams see what matters, fast.
+My background is in marketing, so I tend to start with the business question, not the numbers. Sales trends, customer behaviour, operational performance — I focus on what actually matters and leave out the rest.
 
-I work with tools that business leaders trust: **Power BI**, **Excel**, **SQL**, and **Python**. But tools are just tools. What sets me apart is how I connect the dots between data and decisions, providing insights that truly drive growth.
+I work mainly with Power BI, Excel, SQL, and Python. Tools matter less than the thinking, though. What I care about is connecting the data to a decision someone can make.
 
-I also teach what I know through videos, 1-on-1 mentorship, and content viewed by **40,000+ learners**.
-
-If you need insights, dashboards, or just a second brain to make sense of your data, I'm your person.
+I also teach. My Excel and statistics tutorials have been watched by over 40,000 people, mostly students and early-career professionals.
 
 ---
 
 ## Education
 
-* **University of Dhaka** – BBA in Marketing  
+* **University of Dhaka** — BBA in Marketing
 * **Notre Dame College, Dhaka**
 
 ---
@@ -38,51 +36,42 @@ If you need insights, dashboards, or just a second brain to make sense of your d
 
 ## Selected Projects
 
-| Project                       | Tools Used          | Summary                                                                                                                              |
-| :---------------------------- | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------- |
-| **Pizza Sales Analysis**      | SQL                 | Analyzed extensive pizza sales data using SQL, identifying key trends and customer preferences, leading to optimized menu offerings for a 10% sales increase. |
-| **Marketing Dashboard**       | Power BI, Excel     | Developed an interactive Power BI dashboard to visualize real-time marketing KPIs, enabling faster, data-driven campaign adjustments. |
-| **Statistics Learning Series**| Excel, Python, YouTube | Created a comprehensive video series explaining fundamental statistical concepts through practical examples and tutorials.           |
-
-More projects available on [**GitHub**](https://github.com/sorifulislam111)
+| Project | Tools | What it does | Link |
+| :--- | :--- | :--- | :--- |
+| **Pizza Sales Analysis** | SQL | Queried a pizza sales dataset to find best-selling items, busiest hours, and order patterns that inform menu and staffing decisions. | _add link_ |
+| **Employee Attrition Dashboard** | Power BI | A dashboard showing why employees leave, broken down by job role, age, education, and salary, so HR teams can spot problems early. | _add link_ |
+| **Marketing Dashboard** | Power BI, Excel | An interactive dashboard tracking marketing KPIs so campaign decisions can be made faster. | _add link_ |
+| **Statistics Learning Series** | Excel, Python, YouTube | A tutorial series explaining core statistics concepts through practical, worked examples. | _add link_ |
 
 ---
 
 ## Learn with Me on YouTube
 
-Dive into practical Excel and statistics with my video tutorials. With over 40,000 views, my content helps students and early professionals master essential data skills.
+I make practical Excel and statistics tutorials. The videos have passed 40,000 views and are aimed at students and people early in their data careers.
 
-Watch my playlist: [**Learn with Sojol**](https://www.youtube.com/watch?v=lu5SjRNZcDQ&list=PLi42vxQIJgab1GhrzmWEotAaf4to5ViTg)
-
----
-
-## Contact & Connect
-
-* **Email**: [sorifulislamsojol111@gmail.com](mailto:sorifulislamsojol111@gmail.com)  
-* **LinkedIn**: [linkedin.com/in/sorifulislamdataanalyst](https://www.linkedin.com/in/sorifulislamdataanalyst/)  
-* **WhatsApp**: [+8801580399022](https://wa.me/8801580399022)  
-* **YouTube**: [Learn with Sojol](https://www.youtube.com/@learnwithsojol)
+Playlist: [**Learn with Sojol**](https://www.youtube.com/watch?v=lu5SjRNZcDQ&list=PLi42vxQIJgab1GhrzmWEotAaf4to5ViTg)
 
 ---
 
 ## Work With Me
 
-I’m currently open to freelance and project-based work. My background in marketing means I don't just process numbers; I understand the business questions behind them, providing insights that truly drive growth.
+I take on freelance and project-based data work. Because my background is in marketing, I tend to understand the business question behind the data, not just the numbers.
 
-If you need:
+I can help with:
 
-* A **Power BI dashboard** built from scratch  
-* Help cleaning, organizing, and analyzing your data  
-* **Business insights** that drive action, not just reports  
-
-Let’s connect. I’d love to bring clarity to your data and value to your decisions.
+* Power BI dashboards built from scratch
+* Cleaning, organising, and analysing messy data
+* Turning data into clear recommendations, not just reports
 
 ---
 
-## Follow Me on LinkedIn
+## Contact
 
-I regularly post about data analysis, business intelligence, and tips for using tools like Excel and Power BI. Follow me on [**LinkedIn**](https://www.linkedin.com/in/sorifulislamdataanalyst/) to stay updated and learn with me.
+* **Email**: [sorifulislamsojol111@gmail.com](mailto:sorifulislamsojol111@gmail.com)
+* **LinkedIn**: [linkedin.com/in/thesorifulislam](https://www.linkedin.com/in/thesorifulislam/)
+* **WhatsApp**: [+8801580399022](https://wa.me/8801580399022)
+* **YouTube**: [Learn with Sojol](https://www.youtube.com/@learnwithsojol)
 
 ---
 
-> “Data becomes powerful when insights drive decisions.”
+> "Data becomes useful when it changes a decision."

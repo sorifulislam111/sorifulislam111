@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="banner" width="500">
+</p>
+
 # Soriful Islam
 
 **Data Analyst | Power BI, SQL & Python**
@@ -36,12 +40,12 @@ I also teach. My Excel and statistics tutorials have been watched by over 40,000
 
 ## Selected Projects
 
-| Project | Tools | What it does | Link |
-| :--- | :--- | :--- | :--- |
-| **Pizza Sales Analysis** | SQL | Queried a pizza sales dataset to find best-selling items, busiest hours, and order patterns that inform menu and staffing decisions. | _add link_ |
-| **Employee Attrition Dashboard** | Power BI | A dashboard showing why employees leave, broken down by job role, age, education, and salary, so HR teams can spot problems early. | _add link_ |
-| **Marketing Dashboard** | Power BI, Excel | An interactive dashboard tracking marketing KPIs so campaign decisions can be made faster. | _add link_ |
-| **Statistics Learning Series** | Excel, Python, YouTube | A tutorial series explaining core statistics concepts through practical, worked examples. | _add link_ |
+| Project | Tools | What it does |
+| :--- | :--- | :--- |
+| **Pizza Sales Analysis** | SQL | Queried a pizza sales dataset to find best-selling items, busiest hours, and order patterns that inform menu and staffing decisions. |
+| **Employee Attrition Dashboard** | Power BI | A dashboard showing why employees leave, broken down by job role, age, education, and salary, so HR teams can spot problems early. |
+| **Marketing Dashboard** | Power BI, Excel | An interactive dashboard tracking marketing KPIs so campaign decisions can be made faster. |
+| **Statistics Learning Series** | Excel, Python, YouTube | A tutorial series explaining core statistics concepts through practical, worked examples. |
 
 ---
 
@@ -65,12 +69,22 @@ I can help with:
 
 ---
 
-## Contact
+## Contact & Connect
 
-* **Email**: [sorifulislamsojol111@gmail.com](mailto:sorifulislamsojol111@gmail.com)
-* **LinkedIn**: [linkedin.com/in/thesorifulislam](https://www.linkedin.com/in/thesorifulislam/)
-* **WhatsApp**: [+8801580399022](https://wa.me/8801580399022)
-* **YouTube**: [Learn with Sojol](https://www.youtube.com/@learnwithsojol)
+<p>
+  <a href="https://www.linkedin.com/in/thesorifulislam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/8801580399022">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.youtube.com/@learnwithsojol">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:sorifulislamsojol111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
